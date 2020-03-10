@@ -5,7 +5,7 @@ Domain name
 com
 ### 3. What organization coordinates applications for new TLDs?
 Internet Assigned Numbers Authority (IANA)
-### 4. Which type of network covers a small area such as a group of buildings or compus?
+### 4. Which type of network covers a small area such as a group of buildings or campus?
 Local Area Network (LAN)
 ### 5. What organization takes a proactive approuch to developing best practices and prototype tech for the web?
 World Wide Web Consortium (W3C)
