@@ -7,7 +7,7 @@ com
 Internet Assigned Numbers Authority (IANA)
 ### 4. Which type of network covers a small area such as a group of buildings or campus?
 Local Area Network (LAN)
-### 5. What organization takes a proactive approuch to developing best practices and prototype tech for the web?
+### 5. What organization takes a proactive approach to developing best practices and prototype tech for the web?
 World Wide Web Consortium (W3C)
 ### 6. A URL is a type of URI
 True
@@ -21,7 +21,7 @@ Somewhat true, this is based on the honor system
 True
 ### 11. _ is the set of markup symbols or codes placed in a file intended for display in a browser
 tags
-### 12. A _ can be configured to house a seperate website located at the same domain
+### 12. A _ can be configured to house a separate website located at the same domain
 subdomain
 ### 13. A standard language used for creating a markup language or tag set is _
 Standard Generalized Markup Language (SGML)
