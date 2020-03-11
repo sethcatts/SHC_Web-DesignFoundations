@@ -19,7 +19,7 @@ Ordered List
 <nav></nav>
 ### 10. What does an email link do?
 Open the browsers default email program
-### 11. The _ tag creates bold font
+### 11. The _ tag creates strong font
 <strong></strong>
 ### 12. _ can be used to display special characters
 Special characters
