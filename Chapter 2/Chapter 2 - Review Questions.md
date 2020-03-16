@@ -26,7 +26,7 @@ Special characters
 ### 13. The meta tag can be used to _
 Describe the character encoding that the page uses
 ### 14. The _ is used to place a non-breaking space on a webpage
-&nbsp;
+& nbsp;
 ### 15. Use the _ element to display text in italic style
 The "i" tag
 ### 16. Why is it best practice to place the e-mail address on the webpage and within the anchor when creating an email link?
