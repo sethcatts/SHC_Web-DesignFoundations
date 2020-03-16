@@ -1,6 +1,6 @@
 # Chapter 2 - Review Questions
 ### 1. What tag is used to configure structural area on a page?
-<div></div>
+The "div" tag
 ### 2. What tag is used for new line?
 <br>
 ### 3. What tag is used for links?
